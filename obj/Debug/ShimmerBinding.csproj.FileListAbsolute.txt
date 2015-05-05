@@ -1,0 +1,4 @@
+D:\Projects\NET_Projects\ShimmerBinding\ShimmerBinding\bin\Debug\ShimmerBinding.dll
+D:\Projects\NET_Projects\ShimmerBinding\ShimmerBinding\bin\Debug\ShimmerBinding.pdb
+D:\Projects\NET_Projects\ShimmerBinding\ShimmerBinding\obj\Debug\ShimmerBinding.dll
+D:\Projects\NET_Projects\ShimmerBinding\ShimmerBinding\obj\Debug\ShimmerBinding.pdb
